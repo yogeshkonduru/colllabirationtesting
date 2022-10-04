@@ -6,3 +6,4 @@ print(a+b)
 # this is for the testing for the subtractions
 print(a-b)
 print(a*b)
+print("")
